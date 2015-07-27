@@ -1,0 +1,20 @@
+{
+  "name": "observables-example",
+  "version": "0.0.0",
+  "homepage": "https://github.com/kuychaco/observables-example",
+  "authors": [
+    "Katrina Uychaco <kuychaco@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "rx-dom": "~6.0.0",
+    "rxjs": "~2.5.2"
+  }
+}
